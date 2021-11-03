@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kwbanana/pineappleXD/main/heatwaves"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kwbanana/kur/main/mainlol"))()
